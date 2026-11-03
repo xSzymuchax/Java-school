@@ -1,0 +1,10 @@
+# W repozytorium sa tylko zadania. Reszta zostaje lokalnie.
+/*
+!.gitignore
+!README.md
+!Zadania/
+!Zadania/**
+
+# Artefakty kompilacji
+*.class
+out/
